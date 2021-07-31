@@ -33,12 +33,12 @@
 |:--------|:--------:|:--------:|:--------:|
 | [MoViNets: Mobile Video Networks for Efficient Video Recognition](https://openaccess.thecvf.com/content/CVPR2021/papers/Kondratyuk_MoViNets_Mobile_Video_Networks_for_Efficient_Video_Recognition_CVPR_2021_paper.pdf) | CVPR | - | [GitHub](https://github.com/google-research/movinet) |
 | [FrameExit: Conditional Early Exiting for Efficient Video Recognition](https://openaccess.thecvf.com/content/CVPR2021/papers/Ghodrati_FrameExit_Conditional_Early_Exiting_for_Efficient_Video_Recognition_CVPR_2021_paper.pdf) | CVPR | - | - |
-| [MVFNet: Multi-View Fusion Network for Efficient Video Recognition](https://www.aaai.org/AAAI21Papers/AAAI-1523.WuW.pdf) |AAAI | EA | - |
+| [MVFNet: Multi-View Fusion Network for Efficient Video Recognition](https://www.aaai.org/AAAI21Papers/AAAI-1523.WuW.pdf) |AAAI | - | - |
 | [Adaptive Focus for Efficient Video Recognition](https://arxiv.org/pdf/2105.03245.pdf) | arxiv | - | [GitHub](https://github.com/blackfeather-wang/AdaFocus) |
 | [2D or not 2D? Adaptive 3D Convolution Selection for Efficient Video Recognition](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_2D_or_not_2D_Adaptive_3D_Convolution_Selection_for_Efficient_CVPR_2021_paper.pdf) | CVPR | - | - |
 | [Global2Local: Efficient Structure Search for Video Action Segmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Gao_Global2Local_Efficient_Structure_Search_for_Video_Action_Segmentation_CVPR_2021_paper.pdf) | CVPR | - | [GitHub](https://github.com/ShangHua-Gao/G2L-search) |
 | [Memory-Efficient Network for Large-scale Video Compressive Sensing](https://openaccess.thecvf.com/content/CVPR2021/papers/Cheng_Memory-Efficient_Network_for_Large-Scale_Video_Compressive_Sensing_CVPR_2021_paper.pdf) | CVPR | - | [GitHub](https://github.com/BoChenGroup/RevSCI-net) |
-| [Palleon: A Runtime System for Efficient Video Processing toward Dynamic Class Skew](https://www.usenix.org/system/files/atc21-feng-boyuan.pdf) |USENIX| EA | - |
+| [Palleon: A Runtime System for Efficient Video Processing toward Dynamic Class Skew](https://www.usenix.org/system/files/atc21-feng-boyuan.pdf) |USENIX| - | - |
 | [Real-Time Video Super-Resolution on Smartphones with Deep Learning, Mobile AI 2021 Challenge: Report](https://openaccess.thecvf.com/content/CVPR2021W/MAI/papers/Ignatov_Real-Time_Video_Super-Resolution_on_Smartphones_With_Deep_Learning_Mobile_AI_CVPRW_2021_paper.pdf) | CVPR | - | - |
 | [An Image is Worth 16x16 Words, What is a Video Worth?](https://arxiv.org/pdf/2103.13915.pdf) | arxiv | - | [GitHub](https://github.com/Alibaba-MIIL/STAM) |
 | [ViTrack: Efficient Tracking on the Edge for Commodity Video Surveillance Systems](http://tns.thss.tsinghua.edu.cn/~jiliang/publications/INFOCOM2018-vitrack.pdf) | IEEE Transactions on Parallel and Distributed Systems | - | [GitHub](https://github.com/Alibaba-MIIL/STAM) |
