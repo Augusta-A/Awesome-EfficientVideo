@@ -5,7 +5,8 @@
 
 - [Awesome Benchmarks](#awesome-benchmarks)
 
-- [Deep Learning-based NAS and HPO](#efficient-video-recognition)
+- [Efficient Video Recognition](#efficient-video-recognition)
+  - [2021 Venues](#2021)
   - [2020 Venues](#2020)
   - [2019 Venues](#2019)
 
