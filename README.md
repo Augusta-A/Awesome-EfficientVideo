@@ -22,9 +22,9 @@
 
 ## Efficient Video Recognition (MODIFY)
 
-|      Type   |        G       |                  RL    |            EA           |        PD              |    Other   |
-|:------------|:--------------:|:----------------------:|:-----------------------:|:----------------------:|:----------:|
-| Explanation | gradient-based | reinforcement learning | evolutionary algorithm | performance prediction | other types |
+|      Type   |            KD           |         RL             |    Other   |
+|:------------|:-----------------------:|:----------------------:|:----------:|
+| Explanation | Knowledge distillation | reinforcement learning | other types |
 
 ### 2021
 
