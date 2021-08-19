@@ -1,5 +1,6 @@
 # Awesome-EfficientVideo
 
+The list below summarised the efficient video related papers and surveys. It was inspired by [Awesome-AutoDL](https://github.com/D-X-Y/Awesome-AutoDL), [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision), [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers), [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning), and [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search).
 
 ## Table of Contents (MODIFY)
 
@@ -69,6 +70,8 @@
 | [Temporal Pyramid Network for Action Recognition](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_Temporal_Pyramid_Network_for_Action_Recognition_CVPR_2020_paper.pdf) | CVPR | - | - |
 | [Video Surveillance on Mobile Edge Networks— A Reinforcement-Learning-Based Approach](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8966998) | IEEE INTERNET OF THINGS JOURNAL | - | - |
 | [Temporal Interlacing Network](https://doi.org/10.1609/aaai.v34i07.6872) | AAAI | - | - |
+| [ASSEMBLENET: SEARCHING FOR MULTI-STREAM NEURAL CONNECTIVITY IN VIDEO ARCHITECTURES](https://openreview.net/pdf?id=SJgMK64Ywr) | ICLR | - | - |
+
 
 
 
