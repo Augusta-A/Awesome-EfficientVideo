@@ -48,6 +48,10 @@ The list below summarised the efficient video related papers and surveys. It was
 | [Edge computing based surveillance framework for real time activity recognition](https://www.sciencedirect.com/science/article/pii/S2405959521000540) | ICT Express | - | - |
 | [Edge-based Video Surveillance with Graph-Assisted Reinforcement Learning in Smart Construction](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9459774) | IEEE Internet of Things Journal | RL | - |
 | [Efficient Two-stream Action Recognition on FPGA](https://openaccess.thecvf.com/content/CVPR2021W/ECV/papers/Lin_Efficient_Two-Stream_Action_Recognition_on_FPGA_CVPRW_2021_paper.pdf) | CVPR | - | - |
+| [TokenLearner: What Can 8 Learned Tokens Do for Images and Videos?](https://arxiv.org/pdf/2106.11297.pdf) | aixiv | - | - |
+| [Skip-Convolutions for Efficient Video Processing](https://openaccess.thecvf.com/content/CVPR2021/papers/Habibian_Skip-Convolutions_for_Efficient_Video_Processing_CVPR_2021_paper.pdf) | CVPR | - | - |
+
+
 
 
 
